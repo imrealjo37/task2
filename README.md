@@ -44,11 +44,5 @@ d3 = 0.04 m
 
 ## اختيار محركات السيرفو المناسبة
 
-| المفصل | المحرك المقترح | العزم (N.m) | رابط الشراء |
-|---------|----------------|-------------|--------------|
-| القاعدة | Dynamixel XM540-W270-R | 4.1 | [رابط الشراء](https://www.robotshop.com/products/dynamixel-xm540-w270-r) |
-| المفصل الأوسط | Dynamixel MX-64AT | 6 | [رابط الشراء](https://www.robotshop.com/products/dynamixel-mx-64at-robot-actuator) |
-| نهاية الذراع | Dynamixel AX-12A | 1.5 | [رابط الشراء](https://www.robotshop.com/products/dynamixel-ax-12a-robot-actuator) |
-
-
-
+- [MG996R Servo Motor on Amazon](https://www.amazon.com/s?k=MG996R)
+- [High Torque Servo Motors](https://www.amazon.com/s?k=high+torque+servo+motor)
